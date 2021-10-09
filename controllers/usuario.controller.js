@@ -111,5 +111,5 @@ module.exports={
     getUsuarios,
     crearUsuario,
     actualizarUsuario,
-    eliminarUsuario
+    eliminarUsuario 
 }
